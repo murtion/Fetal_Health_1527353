@@ -7,6 +7,8 @@ El dataset utilitza datos sobre la salud del feto, cuenta con 2126 entradas de 2
 El objetivo del dataset  es buscar los mejores atributos y el mejor algoritmo para predecir la salud del feto.
 ## Experimentos
 Durante la práctica se han escalado los datos y se ha observado entre varios algoritmos cual accierta mas.
+Entre los algoritmos estan: -Regresion logística. -Arbol de decisiones. -Gradiente. -Random Forest. -KNN. -SVC.
+
 ### Preprocesado
 Quines proves hem realitzat que tinguin a veure amb el pre-processat? com han afectat als resultats?
 Para el procesado primero se han observado los tipos de valores y si existian valores nulos.
