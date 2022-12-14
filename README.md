@@ -1,6 +1,8 @@
+#Fetal Health
+
 # Práctica Kaggle APC UAB 2022-23
 ### Nom: Iván Jiménez Ramos ### DATASET: Fetal_Health
-### URL: [kaggle](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification)
+### URL: [fetal_health](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification)
 ## Resum
 El dataset utilitza datos sobre la salud del feto, cuenta con 2126 entradas de 22 atributos cada uno. Los atributos son de tipo float y siguen una distribución normal.
 ### Objectivos del dataset 
