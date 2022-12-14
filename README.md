@@ -1,5 +1,3 @@
-#Fetal Health
-
 # Práctica Kaggle APC UAB 2022-23
 ### Nom: Iván Jiménez Ramos ### DATASET: Fetal_Health
 ### URL: [fetal_health](https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification)
